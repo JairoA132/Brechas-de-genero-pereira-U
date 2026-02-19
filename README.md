@@ -105,7 +105,7 @@ diferencias por programa académico en las áreas STEM.
 <h3>📈 Resultado 1: Análisis de Participación por Género</h3>
 
 <p align="center">
-  <img src="images/newplot.png" width="700">
+  <img src="Visualizaciones/newplot.png" width="700">
 </p>
 
 <p align="justify">
@@ -117,13 +117,20 @@ permitiendo visualizar la magnitud de la brecha existente.
 
 <!-- ===================== RESULTADO 2 ===================== -->
 
-<h3>📊 Resultado 2: ()</h3>
+<h3>📊 Resultado 2: Las 15 carreras mas elegidas por las mujeres (Admitidos)</h3>
 
 <p align="center">
-  <img src="images/resultado2.png" width="700">
+  <img src="Visualizaciones/newplot (2).png" width="700">
 </p>
 
-<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+<h3> Las 15 carreras mas elegidas por los hombres (Admitidos) </h3>
+<p align="center">
+  <img src="Visualizaciones/newplot (3).png" width="700">
+</p>
+
+
+
+<p align="center"><i>🔹 </i></p>
 
 <br><br>
 
@@ -132,50 +139,13 @@ permitiendo visualizar la magnitud de la brecha existente.
 <h3>📉 Resultado 3: ()</h3>
 
 <p align="center">
-  <img src="images/resultado3.png" width="700">
+  <img src="Visualizaciones/newplot (8).png" width="700">
 </p>
 
 <p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
 
 <br><br>
 
-<!-- ===================== RESULTADO 4 ===================== -->
-
-<h3>📌 Resultado 4: ()</h3>
-
-<p align="center">
-  <img src="images/resultado4.png" width="700">
-</p>
-
-<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
-
-<br><br>
-
-<!-- ===================== RESULTADO 5 ===================== -->
-
-<h3>📈 Resultado 5: ()</h3>
-
-<p align="center">
-  <img src="images/resultado5.png" width="700">
-</p>
-
-<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
-
-<br><br>
-
-<!-- ===================== RESULTADO 6 ===================== -->
-
-<h3>📊 Resultado 6: ()</h3>
-
-<p align="center">
-  <img src="images/resultado6.png" width="700">
-</p>
-
-<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
-
-<hr>
-
-<h2>📑 Conclusiones Derivadas del Análisis</h2>
 
 <ul>
   <li>📉 Identificación de programas con menor participación femenina.</li>
