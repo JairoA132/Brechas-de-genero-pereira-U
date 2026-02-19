@@ -85,3 +85,102 @@ participación femenina en áreas STEM.
 <p align="center">
 ✨ Proyecto desarrollado con enfoque en Ciencia de Datos y Análisis Estadístico ✨
 </p>
+
+
+<hr>
+
+<h2>📊 Resultados y Visualizaciones</h2>
+
+<p align="justify">
+En esta sección se presentan los principales hallazgos derivados del análisis 
+estadístico y exploratorio de los datos. Las siguientes visualizaciones permiten 
+identificar patrones de participación por género, tendencias temporales y 
+diferencias por programa académico en las áreas STEM.
+</p>
+
+<br>
+
+<!-- ===================== RESULTADO 1 ===================== -->
+
+<h3>📈 Resultado 1: Análisis de Participación por Género</h3>
+
+<p align="center">
+  <img src="images/newplot.png" width="700">
+</p>
+
+<p align="justify">
+Esta figura muestra la distribución de estudiantes por género en programas STEM, 
+permitiendo visualizar la magnitud de la brecha existente.
+</p>
+
+<br><br>
+
+<!-- ===================== RESULTADO 2 ===================== -->
+
+<h3>📊 Resultado 2: ()</h3>
+
+<p align="center">
+  <img src="images/resultado2.png" width="700">
+</p>
+
+<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+
+<br><br>
+
+<!-- ===================== RESULTADO 3 ===================== -->
+
+<h3>📉 Resultado 3: ()</h3>
+
+<p align="center">
+  <img src="images/resultado3.png" width="700">
+</p>
+
+<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+
+<br><br>
+
+<!-- ===================== RESULTADO 4 ===================== -->
+
+<h3>📌 Resultado 4: ()</h3>
+
+<p align="center">
+  <img src="images/resultado4.png" width="700">
+</p>
+
+<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+
+<br><br>
+
+<!-- ===================== RESULTADO 5 ===================== -->
+
+<h3>📈 Resultado 5: ()</h3>
+
+<p align="center">
+  <img src="images/resultado5.png" width="700">
+</p>
+
+<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+
+<br><br>
+
+<!-- ===================== RESULTADO 6 ===================== -->
+
+<h3>📊 Resultado 6: ()</h3>
+
+<p align="center">
+  <img src="images/resultado6.png" width="700">
+</p>
+
+<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+
+<hr>
+
+<h2>📑 Conclusiones Derivadas del Análisis</h2>
+
+<ul>
+  <li>📉 Identificación de programas con menor participación femenina.</li>
+  <li>📊 Evidencia cuantitativa de la magnitud de la brecha de género.</li>
+  <li>📈 Tendencias que sugieren posibles avances o estancamientos en equidad.</li>
+  <li>🎯 Información clave para la formulación de estrategias institucionales.</li>
+</ul>
+
