@@ -123,6 +123,8 @@ permitiendo visualizar la magnitud de la brecha existente.
   <img src="Visualizaciones/newplot (2).png" width="700">
 </p>
 
+
+
 <h3> Las 15 carreras mas elegidas por los hombres (Admitidos) </h3>
 <p align="center">
   <img src="Visualizaciones/newplot (3).png" width="700">
@@ -142,7 +144,7 @@ permitiendo visualizar la magnitud de la brecha existente.
   <img src="Visualizaciones/newplot (8).png" width="700">
 </p>
 
-<p align="center"><i>🔹 Imagen pendiente por agregar</i></p>
+<p align="center"><i>🔹 El gráfico revela que, aunque la participación inicial es igualitaria ($50/50$), los hombres tienen una tasa de admisión y matrícula sutilmente superior a la de las mujeres en este conjunto de datos específico.</i></p>
 
 <br><br>
 
